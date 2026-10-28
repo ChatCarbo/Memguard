@@ -79,10 +79,6 @@ memguard/
 - Quand la fenêtre est cachée, l'infobulle de l'icône n'est rafraîchie que si l'auto-optimisation est active.
 - Le choix de la langue n'est pas mémorisé entre deux lancements (utiliser `--lang=`).
 
-## Licence
-
-À définir.
-
 ---
 
 <a name="english"></a>
