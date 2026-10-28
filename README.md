@@ -167,7 +167,3 @@ memguard/
 - Windows only.
 - While the window is hidden, the tray tooltip is refreshed only when auto-optimization is on.
 - The language choice isn't remembered between runs (use `--lang=`).
-
-## License
-
-To be defined.
