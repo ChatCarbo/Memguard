@@ -2,7 +2,7 @@
 
 **🇫🇷 Français** · [🇬🇧 English](#english)
 
-Moniteur et optimiseur de mémoire RAM pour **Windows 11**, écrit en Rust. Conçu pour les PC qui ont peu de RAM : l'outil lui-même est ultra-léger (interface `egui` en OpenGL, sans `wgpu` ni `tokio`) et il agit de façon **ciblée** plutôt que de « vider » la mémoire à l'aveugle.
+Moniteur et optimiseur de mémoire RAM pour **Windows 11**, écrit en Rust. Conçu pour les PC qui ont peu de RAM : l'outil lui-même est ultra-léger (interface `egui` en OpenGL, sans `wgpu` ni `tokio`) et il agit de façon **ciblée** plutôt que de vider la mémoire à l'aveugle.
 
 ## Fonctionnalités
 
